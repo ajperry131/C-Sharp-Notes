@@ -1,0 +1,14 @@
+/home/andrew/projects/C# Learning/ReferenceAndValueTypes/bin/Debug/net8.0/ReferenceAndValueTypes
+/home/andrew/projects/C# Learning/ReferenceAndValueTypes/bin/Debug/net8.0/ReferenceAndValueTypes.deps.json
+/home/andrew/projects/C# Learning/ReferenceAndValueTypes/bin/Debug/net8.0/ReferenceAndValueTypes.runtimeconfig.json
+/home/andrew/projects/C# Learning/ReferenceAndValueTypes/bin/Debug/net8.0/ReferenceAndValueTypes.dll
+/home/andrew/projects/C# Learning/ReferenceAndValueTypes/bin/Debug/net8.0/ReferenceAndValueTypes.pdb
+/home/andrew/projects/C# Learning/ReferenceAndValueTypes/obj/Debug/net8.0/ReferenceAndValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrew/projects/C# Learning/ReferenceAndValueTypes/obj/Debug/net8.0/ReferenceAndValueTypes.AssemblyInfoInputs.cache
+/home/andrew/projects/C# Learning/ReferenceAndValueTypes/obj/Debug/net8.0/ReferenceAndValueTypes.AssemblyInfo.cs
+/home/andrew/projects/C# Learning/ReferenceAndValueTypes/obj/Debug/net8.0/ReferenceAndValueTypes.csproj.CoreCompileInputs.cache
+/home/andrew/projects/C# Learning/ReferenceAndValueTypes/obj/Debug/net8.0/ReferenceAndValueTypes.dll
+/home/andrew/projects/C# Learning/ReferenceAndValueTypes/obj/Debug/net8.0/refint/ReferenceAndValueTypes.dll
+/home/andrew/projects/C# Learning/ReferenceAndValueTypes/obj/Debug/net8.0/ReferenceAndValueTypes.pdb
+/home/andrew/projects/C# Learning/ReferenceAndValueTypes/obj/Debug/net8.0/ReferenceAndValueTypes.genruntimeconfig.cache
+/home/andrew/projects/C# Learning/ReferenceAndValueTypes/obj/Debug/net8.0/ref/ReferenceAndValueTypes.dll

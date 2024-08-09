@@ -1,0 +1,14 @@
+/home/andrew/projects/C# Learning/Enums/bin/Debug/net8.0/Enums
+/home/andrew/projects/C# Learning/Enums/bin/Debug/net8.0/Enums.deps.json
+/home/andrew/projects/C# Learning/Enums/bin/Debug/net8.0/Enums.runtimeconfig.json
+/home/andrew/projects/C# Learning/Enums/bin/Debug/net8.0/Enums.dll
+/home/andrew/projects/C# Learning/Enums/bin/Debug/net8.0/Enums.pdb
+/home/andrew/projects/C# Learning/Enums/obj/Debug/net8.0/Enums.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrew/projects/C# Learning/Enums/obj/Debug/net8.0/Enums.AssemblyInfoInputs.cache
+/home/andrew/projects/C# Learning/Enums/obj/Debug/net8.0/Enums.AssemblyInfo.cs
+/home/andrew/projects/C# Learning/Enums/obj/Debug/net8.0/Enums.csproj.CoreCompileInputs.cache
+/home/andrew/projects/C# Learning/Enums/obj/Debug/net8.0/Enums.dll
+/home/andrew/projects/C# Learning/Enums/obj/Debug/net8.0/refint/Enums.dll
+/home/andrew/projects/C# Learning/Enums/obj/Debug/net8.0/Enums.pdb
+/home/andrew/projects/C# Learning/Enums/obj/Debug/net8.0/Enums.genruntimeconfig.cache
+/home/andrew/projects/C# Learning/Enums/obj/Debug/net8.0/ref/Enums.dll

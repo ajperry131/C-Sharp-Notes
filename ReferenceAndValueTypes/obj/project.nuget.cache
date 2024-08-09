@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AI0Df3b1+BdrEjh9xX47JKpM+SZr5CTkCrSLedqYTfigiCErTKqb8mXXJsqn4Rp4qM+XChpO4AZQFK29XYkRzg==",
+  "success": true,
+  "projectFilePath": "/home/andrew/projects/C# Learning/ReferenceAndValueTypes/ReferenceAndValueTypes.csproj",
+  "expectedPackageFiles": [
+    "/home/andrew/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
