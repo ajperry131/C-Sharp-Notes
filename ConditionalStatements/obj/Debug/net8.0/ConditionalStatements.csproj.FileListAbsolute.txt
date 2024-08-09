@@ -1,0 +1,15 @@
+/home/andrew/projects/C# Learning/ConditionalStatements/bin/Debug/net8.0/ConditionalStatements
+/home/andrew/projects/C# Learning/ConditionalStatements/bin/Debug/net8.0/ConditionalStatements.deps.json
+/home/andrew/projects/C# Learning/ConditionalStatements/bin/Debug/net8.0/ConditionalStatements.runtimeconfig.json
+/home/andrew/projects/C# Learning/ConditionalStatements/bin/Debug/net8.0/ConditionalStatements.dll
+/home/andrew/projects/C# Learning/ConditionalStatements/bin/Debug/net8.0/ConditionalStatements.pdb
+/home/andrew/projects/C# Learning/ConditionalStatements/obj/Debug/net8.0/ConditionalStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrew/projects/C# Learning/ConditionalStatements/obj/Debug/net8.0/ConditionalStatements.AssemblyInfoInputs.cache
+/home/andrew/projects/C# Learning/ConditionalStatements/obj/Debug/net8.0/ConditionalStatements.AssemblyInfo.cs
+/home/andrew/projects/C# Learning/ConditionalStatements/obj/Debug/net8.0/ConditionalStatements.csproj.CoreCompileInputs.cache
+/home/andrew/projects/C# Learning/ConditionalStatements/obj/Debug/net8.0/ConditionalStatements.sourcelink.json
+/home/andrew/projects/C# Learning/ConditionalStatements/obj/Debug/net8.0/ConditionalStatements.dll
+/home/andrew/projects/C# Learning/ConditionalStatements/obj/Debug/net8.0/refint/ConditionalStatements.dll
+/home/andrew/projects/C# Learning/ConditionalStatements/obj/Debug/net8.0/ConditionalStatements.pdb
+/home/andrew/projects/C# Learning/ConditionalStatements/obj/Debug/net8.0/ConditionalStatements.genruntimeconfig.cache
+/home/andrew/projects/C# Learning/ConditionalStatements/obj/Debug/net8.0/ref/ConditionalStatements.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uO5dSttsoOtsSQnaGROwNBYGU2sZcVEFvg/WK053DAlroYTyYqt7qUMXUIQ/1aZl+HLs1dXEwoXUM7Sz8mj89g==",
+  "success": true,
+  "projectFilePath": "/home/andrew/projects/C# Learning/ConditionalStatements/ConditionalStatements.csproj",
+  "expectedPackageFiles": [
+    "/home/andrew/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

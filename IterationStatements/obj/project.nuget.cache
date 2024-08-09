@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W5XW7mX95dwNpSRfSCoEhUf+xKQ+T9sNfeppYgedu3ZRGBeL2zEzejSHFmbzRO24uputHhqmIlavUjruJNmdHA==",
+  "success": true,
+  "projectFilePath": "/home/andrew/projects/C# Learning/IterationStatements/IterationStatements.csproj",
+  "expectedPackageFiles": [
+    "/home/andrew/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

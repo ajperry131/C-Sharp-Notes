@@ -1,0 +1,15 @@
+/home/andrew/projects/C# Learning/IterationStatements/obj/Debug/net8.0/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrew/projects/C# Learning/IterationStatements/obj/Debug/net8.0/IterationStatements.AssemblyInfoInputs.cache
+/home/andrew/projects/C# Learning/IterationStatements/obj/Debug/net8.0/IterationStatements.AssemblyInfo.cs
+/home/andrew/projects/C# Learning/IterationStatements/obj/Debug/net8.0/IterationStatements.csproj.CoreCompileInputs.cache
+/home/andrew/projects/C# Learning/IterationStatements/obj/Debug/net8.0/IterationStatements.sourcelink.json
+/home/andrew/projects/C# Learning/IterationStatements/bin/Debug/net8.0/IterationStatements
+/home/andrew/projects/C# Learning/IterationStatements/bin/Debug/net8.0/IterationStatements.deps.json
+/home/andrew/projects/C# Learning/IterationStatements/bin/Debug/net8.0/IterationStatements.runtimeconfig.json
+/home/andrew/projects/C# Learning/IterationStatements/bin/Debug/net8.0/IterationStatements.dll
+/home/andrew/projects/C# Learning/IterationStatements/bin/Debug/net8.0/IterationStatements.pdb
+/home/andrew/projects/C# Learning/IterationStatements/obj/Debug/net8.0/IterationStatements.dll
+/home/andrew/projects/C# Learning/IterationStatements/obj/Debug/net8.0/refint/IterationStatements.dll
+/home/andrew/projects/C# Learning/IterationStatements/obj/Debug/net8.0/IterationStatements.pdb
+/home/andrew/projects/C# Learning/IterationStatements/obj/Debug/net8.0/IterationStatements.genruntimeconfig.cache
+/home/andrew/projects/C# Learning/IterationStatements/obj/Debug/net8.0/ref/IterationStatements.dll

@@ -1,0 +1,15 @@
+/home/andrew/projects/C# Learning/Random/bin/Debug/net8.0/Random
+/home/andrew/projects/C# Learning/Random/bin/Debug/net8.0/Random.deps.json
+/home/andrew/projects/C# Learning/Random/bin/Debug/net8.0/Random.runtimeconfig.json
+/home/andrew/projects/C# Learning/Random/bin/Debug/net8.0/Random.dll
+/home/andrew/projects/C# Learning/Random/bin/Debug/net8.0/Random.pdb
+/home/andrew/projects/C# Learning/Random/obj/Debug/net8.0/Random.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrew/projects/C# Learning/Random/obj/Debug/net8.0/Random.AssemblyInfoInputs.cache
+/home/andrew/projects/C# Learning/Random/obj/Debug/net8.0/Random.AssemblyInfo.cs
+/home/andrew/projects/C# Learning/Random/obj/Debug/net8.0/Random.csproj.CoreCompileInputs.cache
+/home/andrew/projects/C# Learning/Random/obj/Debug/net8.0/Random.sourcelink.json
+/home/andrew/projects/C# Learning/Random/obj/Debug/net8.0/Random.dll
+/home/andrew/projects/C# Learning/Random/obj/Debug/net8.0/refint/Random.dll
+/home/andrew/projects/C# Learning/Random/obj/Debug/net8.0/Random.pdb
+/home/andrew/projects/C# Learning/Random/obj/Debug/net8.0/Random.genruntimeconfig.cache
+/home/andrew/projects/C# Learning/Random/obj/Debug/net8.0/ref/Random.dll
