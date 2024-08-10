@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cMFRky4Jcma34LWUd7NKfCerFcq6PhGbkjAOwqcYyynAY7Vn6GbxRpx/RnADOmOVWNd6i4qXMKO8Das0CLoTLQ==",
+  "success": true,
+  "projectFilePath": "/home/andrew/projects/C# Learning/WorkingWithText/WorkingWithText.csproj",
+  "expectedPackageFiles": [
+    "/home/andrew/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

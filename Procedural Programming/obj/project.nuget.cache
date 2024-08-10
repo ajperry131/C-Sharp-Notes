@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "spw4nS3HepMxQxKftntenUfUDHetsN4yljuPqbiXXoHalKWf5NXvkomAiCOH2JBXO3RWtOsUu45Csyp+xCXuOA==",
+  "success": true,
+  "projectFilePath": "/home/andrew/projects/C# Learning/Procedural Programming/Procedural Programming.csproj",
+  "expectedPackageFiles": [
+    "/home/andrew/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
