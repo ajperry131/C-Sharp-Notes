@@ -1,0 +1,15 @@
+/home/andrew/projects/C# Learning/Lists/bin/Debug/net8.0/Lists
+/home/andrew/projects/C# Learning/Lists/bin/Debug/net8.0/Lists.deps.json
+/home/andrew/projects/C# Learning/Lists/bin/Debug/net8.0/Lists.runtimeconfig.json
+/home/andrew/projects/C# Learning/Lists/bin/Debug/net8.0/Lists.dll
+/home/andrew/projects/C# Learning/Lists/bin/Debug/net8.0/Lists.pdb
+/home/andrew/projects/C# Learning/Lists/obj/Debug/net8.0/Lists.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrew/projects/C# Learning/Lists/obj/Debug/net8.0/Lists.AssemblyInfoInputs.cache
+/home/andrew/projects/C# Learning/Lists/obj/Debug/net8.0/Lists.AssemblyInfo.cs
+/home/andrew/projects/C# Learning/Lists/obj/Debug/net8.0/Lists.csproj.CoreCompileInputs.cache
+/home/andrew/projects/C# Learning/Lists/obj/Debug/net8.0/Lists.sourcelink.json
+/home/andrew/projects/C# Learning/Lists/obj/Debug/net8.0/Lists.dll
+/home/andrew/projects/C# Learning/Lists/obj/Debug/net8.0/refint/Lists.dll
+/home/andrew/projects/C# Learning/Lists/obj/Debug/net8.0/Lists.pdb
+/home/andrew/projects/C# Learning/Lists/obj/Debug/net8.0/Lists.genruntimeconfig.cache
+/home/andrew/projects/C# Learning/Lists/obj/Debug/net8.0/ref/Lists.dll

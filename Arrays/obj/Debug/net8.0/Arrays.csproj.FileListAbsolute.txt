@@ -1,0 +1,15 @@
+/home/andrew/projects/C# Learning/Arrays/bin/Debug/net8.0/Arrays
+/home/andrew/projects/C# Learning/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/home/andrew/projects/C# Learning/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/home/andrew/projects/C# Learning/Arrays/bin/Debug/net8.0/Arrays.dll
+/home/andrew/projects/C# Learning/Arrays/bin/Debug/net8.0/Arrays.pdb
+/home/andrew/projects/C# Learning/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrew/projects/C# Learning/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/home/andrew/projects/C# Learning/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/home/andrew/projects/C# Learning/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/home/andrew/projects/C# Learning/Arrays/obj/Debug/net8.0/Arrays.sourcelink.json
+/home/andrew/projects/C# Learning/Arrays/obj/Debug/net8.0/Arrays.dll
+/home/andrew/projects/C# Learning/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/home/andrew/projects/C# Learning/Arrays/obj/Debug/net8.0/Arrays.pdb
+/home/andrew/projects/C# Learning/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/home/andrew/projects/C# Learning/Arrays/obj/Debug/net8.0/ref/Arrays.dll
